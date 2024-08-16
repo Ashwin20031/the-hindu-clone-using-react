@@ -1,0 +1,7 @@
+.button-container{
+    padding: 0.6rem 2rem;
+    border: 0.6px solid brown;
+    min-width: 10rem;
+    font-weight: bold;
+    cursor: pointer;
+}

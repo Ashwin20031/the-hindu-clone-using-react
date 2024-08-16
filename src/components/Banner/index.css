@@ -1,0 +1,37 @@
+.banner-container{
+    display: flex;
+    gap: 2rem;
+    margin: 10rem 0rem;
+    
+    padding: 0rem 3rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.banner-left,.banner-right{
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.banner-center{
+    width: 40vw;
+    border-left: 1px solid rgb(187, 186, 186);
+    border-right: 1px solid rgb(188, 187, 187);
+    padding: 0.7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.banner-center p{
+   font-size: 1.1rem;
+}
+
+.banner-center h3{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: "Newsreader", serif;
+
+}

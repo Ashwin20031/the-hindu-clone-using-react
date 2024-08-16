@@ -1,0 +1,28 @@
+.video-card-container{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    color: white;
+    border-bottom: 1px solid rgb(138, 138, 138);
+}
+
+.video-card-container:hover{
+  background-color: rgba(240, 248, 255, 0.2);
+}
+
+
+
+
+.video-card-container p{
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-family: "Newsreader", serif;
+}
+
+.video-card-container img{
+    width: 12rem;
+    height: 7rem;
+}
+
+

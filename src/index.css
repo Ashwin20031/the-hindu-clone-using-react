@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+h2{
+  font-size: 2rem;
+  font-weight: bolder;
+  color: brown;
+  font-family: "Newsreader", serif;
+
+}
+
+.flex-row{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.flex-col{
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}

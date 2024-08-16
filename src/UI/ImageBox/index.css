@@ -1,0 +1,17 @@
+.image-box-container{
+    width: 20rem;
+    height: 27rem;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1.3rem;
+    padding: 2rem;
+    color: white;
+    font-style: italic;
+    font-weight: bolder;
+    cursor: pointer;
+    
+    
+}
