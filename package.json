@@ -1,7 +1,7 @@
 {
   "name": "news-paper-hind",
   "version": "0.1.0",
-  "homepage": "https://Ashwin20031.github.io/the-hindu-clone-using-reactjs",
+  "homepage": "https://Ashwin20031.github.io/the-hindu-clone-using-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
